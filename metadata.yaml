@@ -1,0 +1,35 @@
+_repo: Stories-of-Comedy_20229
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Johnson, Rossiter
+    alias: Johnson, Edwin Rossiter
+    birthdate: 1840
+    deathdate: 1931
+    gutenberg_agent_id: '3308'
+    url: http://www.gutenberg.org/2009/agents/3308
+description: ''
+gutenberg_issued: '2006-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcsh 'Wit and humor'
+- !lcsh 'Short stories'
+- !lcc 'PN'
+- !lcsh 'Irish wit and humor'
+- !lcsh 'Scottish wit and humor'
+tableOfContents: "Barny O'Reirdon the Navigator, by Lover\r\nHaddad-Ben-Ahab the Traveller,\
+  \ by Galt\r\nBluebeard's Ghost, by Thackeray\r\nThe Picnic Party, by Smith\r\nFather\
+  \ Tom and the Pope, by Ferguson\r\nJohnny Darbyshire, by Howitt\r\nThe Gridiron,\
+  \ by Lover\r\nThe Box Tunnel, by Reade."
+title: Stories of Comedy
+url: http://www.gutenberg.org/ebooks/20229
